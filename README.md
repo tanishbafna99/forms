@@ -34,7 +34,7 @@ Example structure:
 {
   "Full Name": "Tanish Bafna",
   "Email": "tanishbafna@gmail.com",
-  "Phone Number": "9876543210",
+  "Phone Number": "1234567890",
   "Address": "Pune, Maharashtra",
   "Occupation": "Computer Engineer",
   "Age": "22"
